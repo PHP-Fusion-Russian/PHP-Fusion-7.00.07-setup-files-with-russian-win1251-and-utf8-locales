@@ -1,0 +1,1 @@
+# PHP-Fusion-7.00.07-setup-files-with-russian-win1251-and-utf8-locales
